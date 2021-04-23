@@ -8,6 +8,7 @@ Names of any geographical or topographical feature of public or historical inter
 Georeferencing means to associate an object with a position in physical space. Postion is most commonly represented using a coordinate reference system, which in turn can be related to a geodetic reference system such as WGS-84.
 
 ## Habitat
+A habitat summarises the array of resources, physical and biotic factors that are present in an area, such as to support the survival and reproduction of a particular species. [Wikipedia]
 
 ## Person
 A definitive, canonical representation of a human in the Agent module.
